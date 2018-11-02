@@ -2,12 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Fahrt_main" target="1.8" />
-      <module name="Fahrt_test" target="1.8" />
-      <module name="Fahrtenbuch_main" target="1.8" />
-      <module name="Fahrtenbuch_test" target="1.8" />
-      <module name="unknown_name_main" target="1.8" />
-      <module name="unknown_name_test" target="1.8" />
+      <module name="Fahrtenbuch.main" target="1.8" />
+      <module name="Fahrtenbuch.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

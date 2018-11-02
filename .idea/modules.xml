@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fahrtenbuch.iml" filepath="$PROJECT_DIR$/.idea/modules/Fahrtenbuch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fahrtenbuch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fahrtenbuch_main.iml" group="Fahrtenbuch" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fahrtenbuch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fahrtenbuch_test.iml" group="Fahrtenbuch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fahrtenbuch.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fahrtenbuch.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fahrtenbuch.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fahrtenbuch.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
